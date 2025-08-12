@@ -133,7 +133,7 @@ export default page`
   )
 
   return (
-    <div className="container mx-auto p-6 py-20">
+    <div className="container mx-auto p-6 py-40">
       <CodePreview
         code={tweetCardCode}
         title="Tweet Card Component"
