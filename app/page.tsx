@@ -8,7 +8,6 @@ const page = () => {
       <div className="p-4">
         <a
           href='/card'
-          target="_blank"
           rel="noopener noreferrer"
           className="px-6 py-3.5 text-neutral-500 text-sm flex justify-center border border-neutral-500 font-medium rounded-full hover:bg-black/90 hover:text-white transition-colors duration-200 cursor-pointer"
         >

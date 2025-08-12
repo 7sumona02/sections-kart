@@ -1,7 +1,7 @@
 // import React from 'react'
 // import TweetCard from './_components/tweet-card'
 
-import { CodePreview } from "./_components/code-preview"
+import { CodePreview } from "../../components/code-preview"
 import { TweetCard } from "./_components/tweet-card"
 
 // const page = () => {
